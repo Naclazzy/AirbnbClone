@@ -27,6 +27,11 @@ export default {
             name: 'image',
             title: 'Image', 
             type: 'image'
+        },
+    ],
+    preview: {
+        select: {
+            title: 'name', media: 'image'
         }
-    ]
+    }
 }
