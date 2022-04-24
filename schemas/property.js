@@ -47,6 +47,11 @@ export default{
             type: 'number' 
         }, 
         {
+            name:'bed', 
+            title:'Beds', 
+            type: 'number'  
+        }, 
+        {
             name:'bedrooms', 
             title:'Bedrooms', 
             type: 'number'  
